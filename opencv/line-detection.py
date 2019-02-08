@@ -2,7 +2,7 @@
 """
 Created on Thu Feb  7 22:39:39 2019
 
-@author: Seungwoo
+@author: S. Han
 """
 import cv2
 import numpy as np # import package
