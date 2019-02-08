@@ -22,15 +22,15 @@ ans = lstnp[:,1:] #data type transform and processing
 
 pred_mean = np.mean(pred)
 ans_mean = np.mean(ans)
-averg = np.ones(31) # count of data is 30
+averg = np.ones(31) #count of data is 30
 avergA = averg * pred_mean
 avergB = averg * ans_mean
 sss = (pred-avergA)*(ans-avergB)
 sssS = sum(sss)
 ppp = np.std(pred) * np.std(ans)
-cor = sssS /(31 * ppp) # correlation
+cor = sssS /(31 * ppp) #correlation
 
-cor_print = cor[1] # only one array extract
+cor_print = cor[1] #only one array extract
 
 plt.figure(figsize=(6,6), dpi = 100)
 plt.scatter(pred,ans)
@@ -42,6 +42,6 @@ plt.xlabel('pred')
 plt.ylabel('ans')
 
 x = [a for a in range(160)]
-y = [b for b in range(160)] # make line
+y = [b for b in range(160)] #make line
 plt.plot(x,y, 'k') 
 plt.show()
