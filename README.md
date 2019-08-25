@@ -13,6 +13,8 @@
 
 ## Getting Started
 
+#### 2019.08.25 기준 머신러닝 기반 혈압 추정은 주피터 노트북에서 실시간 실습이 가능합니다. 머신러닝 기반 실습은 따로 파이썬 설치가 필요 없습니다.
+
 이곳에 있는 자료들을 사용하기 위해서는 파이썬 3.x 버전 이상이 필요합니다.
 
 [Python 홈페이지](https://www.python.org/)에 있는 Python을 사용해도 되나, 되도록이면 [Anaconda3](https://www.anaconda.com/), 또는 [Miniconda3](https://docs.conda.io/en/latest/miniconda.html) 사용을 권장드립니다.
@@ -50,8 +52,6 @@ pip install lib
 ```
 conda install lib
 ```
-
-2019.08.25 기준 머신러닝 기반 혈압 추정은 주피터 노트북에서 실시간 실습이 가능합니다.
 
 ## Python
 
