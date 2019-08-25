@@ -6,4 +6,5 @@ tensorflow
 keras
 Ipython
 graphviz
-pydot
+pydotplus
+Pillow
