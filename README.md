@@ -9,7 +9,7 @@
 
 # Python 및 Ruby Study
 
-기본적인 파이썬 문법 및 머신러닝 실습자료
+기본적인 파이썬/루비 문법 및 머신러닝 실습자료
 
 ## Getting Started
 
@@ -78,3 +78,5 @@ conda install lib
 #### 딥러닝 기반 혈압 추정
 
 - 작성중
+
+## Ruby
