@@ -37,9 +37,6 @@
 
 - [선형회귀 기반](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/BP_estimation)    [!실습해보기!](https://mybinder.org/v2/gh/Kaintels/rubyPy-study/master?filepath=Python3/BP_estimation/Py_practice.ipynb)
 
+#### 딥러닝 기반 혈압 추정
 
-
-
-
-##  Ruby
-
+- 작성중
