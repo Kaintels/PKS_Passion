@@ -45,6 +45,9 @@
 
 ```
 pip install lib
+```
+또는
+```
 conda install lib
 ```
 
