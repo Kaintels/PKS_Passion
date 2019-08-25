@@ -3,3 +3,4 @@ matplotlib==3.*
 pandas
 scipy
 sklearn
+jupyter_nbextensions_configurator
