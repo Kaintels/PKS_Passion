@@ -13,7 +13,42 @@
 
 ## Getting Started
 
-2019.08.25 현재 머신러닝 기반 혈압 추정은 주피터 노트북에서 실시간 실습이 가능함.
+이곳에 있는 자료들을 사용하기 위해서는 파이썬 3.x 버전 이상이 필요합니다.
+
+[Python 홈페이지](https://www.python.org/)에 있는 Python을 사용해도 되나, 되도록이면 [Anaconda3](https://www.anaconda.com/), 또는 [Miniconda3](https://docs.conda.io/en/latest/miniconda.html) 사용을 권장드립니다.
+
+자료들을 사용하는데 있어서 필요한 라이브러리는 다음과 같습니다.
+
+#### 수치해석
+
+- `numpy` : 수치 및 행렬 계산을 위한 라이브러리
+- `scipy` : 수학 및 신호처리 라이브러리
+- `pandas` : 데이터 불러오기 및 데이터 처리 라이브러리
+
+#### 그래프
+
+- `matplotlib` : 그래프 도식화 라이브러리
+- `seaborn` : 고급 그래프 도식화 라이브러리 (필수x)
+
+#### 머신러닝 및 딥러닝
+
+- `sklearn` : 머신러닝 라이브러리
+- `tensorflow` : 구글의 딥러닝 라이브러리
+- `keras` : tensorflow의 high-level API
+- `pytorch` : 페이스북의 딥러닝 라이브러리
+
+**머신러닝 및 딥러닝 라이브러리는 의존성(dependency)을 같게 되므로, 하나의 가상환경에 하나의 머신 및 딥러닝 라이브러리 설치를 당부드립니다.**
+
+(e.g : 가상환경 1에는 tensorflow, 가상환경 2에는 pytorch 설치를 해야함. 가상환경 1에 두 딥러닝 라이브러리를 설치하면 오류가 날 수있음)
+
+라이브러리 설치는 아래와 같이 설치를 해야합니다.
+
+```
+pip install lib
+conda install lib
+```
+
+2019.08.25 기준 머신러닝 기반 혈압 추정은 주피터 노트북에서 실시간 실습이 가능합니다.
 
 ## Python
 
