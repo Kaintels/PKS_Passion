@@ -4,3 +4,5 @@ pandas
 scipy
 tensorflow
 keras
+Ipython
+graphviz
