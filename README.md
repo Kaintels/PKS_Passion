@@ -17,7 +17,7 @@
 
 이곳에 있는 자료들을 사용하기 위해서는 파이썬 3.x 버전 이상이 필요합니다.
 
-[Python 홈페이지](https://www.python.org/)에 있는 Python을 사용해도 되나, 되도록이면 [Anaconda3](https://www.anaconda.com/), 또는 [Miniconda3](https://docs.conda.io/en/latest/miniconda.html) 사용을 권장드립니다.
+[Python 홈페이지](https://www.python.org/)에 있는 Python을 사용해도 되나, 되도록이면 가상환경이 가능한 [Anaconda3](https://www.anaconda.com/), 또는 [Miniconda3](https://docs.conda.io/en/latest/miniconda.html) 사용을 권장드립니다.
 
 자료들을 사용하는데 있어서 필요한 라이브러리는 다음과 같습니다.
 
@@ -41,7 +41,9 @@
 
 **머신러닝 및 딥러닝 라이브러리는 다른 라이브러리들과 의존성(dependency)을 가지게 되므로, 하나의 가상환경에 하나의 머신 및 딥러닝 라이브러리 설치를 당부드립니다.**
 
-(e.g : 가상환경 1에는 tensorflow, 가상환경 2에는 pytorch 설치를 해야함. 가상환경 1에 두 딥러닝 라이브러리를 설치하면 오류가 날 수있음)
+(e.g. : 가상환경 1에는 tensorflow, 가상환경 2에는 pytorch 설치를 해야함. 가상환경 1에 두 딥러닝 라이브러리를 설치하면 오류가 날 수있음)
+
+가상환경 설치 및 관리는 다음 사이트로 가시면 확인하실 수 있습니다. [바로가기](https://niceman.tistory.com/85)
 
 라이브러리 설치는 아래와 같이 설치를 해야합니다.
 
