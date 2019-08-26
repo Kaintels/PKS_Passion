@@ -1,0 +1,1 @@
+[nbviewer](https://nbviewer.jupyter.org/github/Kaintels/rubyPy-study/blob/master/Python3/BP_estimation/Py_practice.ipynb)
