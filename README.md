@@ -75,7 +75,7 @@ conda install lib
 
 #### 머신러닝 기반 혈압 추정[선형회귀 기반]
 
-- [주피터 노트북](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/BP_estimation)
+- [주피터 노트북](https://nbviewer.jupyter.org/github/Kaintels/rubyPy-study/blob/master/Python3/BP_estimation/Py_practice.ipynb)
 - [실습해보기](https://mybinder.org/v2/gh/Kaintels/rubyPy-study/master?filepath=Python3/BP_estimation/Py_practice.ipynb)
 
 #### 딥러닝 기반 혈압 추정
