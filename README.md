@@ -63,7 +63,7 @@ conda install lib
 
 #### 통계학
 
-- [상관관계](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/statistics)	
+- [상관관계분석](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/statistics)	
 
 #### 영상처리
 
