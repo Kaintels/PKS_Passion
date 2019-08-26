@@ -1,4 +1,5 @@
-[![forthebadge made-with-ruby](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://www.ruby-lang.org/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-with-ruby](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://www.ruby-lang.org/) 
 
 
 ![badge](https://img.shields.io/badge/launch-binder-579aca.svg) [![Anaconda-Server Badge](https://anaconda.org/anaconda/anaconda/badges/installer/conda.svg)](https://conda.anaconda.org/anaconda)
