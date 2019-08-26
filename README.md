@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-#### 2019.08.25 기준 [머신러닝 기반 혈압 추정](#머신러닝-기반-혈압-추정[선형회귀-기반])은 주피터 노트북에서 실시간 실습이 가능합니다. 머신러닝 기반 실습은 따로 파이썬 설치가 필요 없습니다.
+#### 2019.08.25 기준 [머신러닝 기반 혈압 추정](#머신러닝-기반-혈압-추정)은 주피터 노트북에서 실시간 실습이 가능합니다. 머신러닝 기반 실습은 따로 파이썬 설치가 필요 없습니다.
 
 이곳에 있는 자료들을 사용하기 위해서는 파이썬 3.x 버전 이상이 필요합니다.
 
@@ -73,7 +73,9 @@ conda install lib
 
 - [기본 문법 1](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/pytorch)
 
-#### 머신러닝 기반 혈압 추정[선형회귀 기반]
+#### 머신러닝 기반 혈압 추정
+
+##### 선형회귀 기반 
 
 - [주피터 노트북](https://nbviewer.jupyter.org/github/Kaintels/rubyPy-study/blob/master/Python3/BP_estimation/Py_practice.ipynb)
 - [실습해보기](https://mybinder.org/v2/gh/Kaintels/rubyPy-study/master?filepath=Python3/BP_estimation/Py_practice.ipynb)
