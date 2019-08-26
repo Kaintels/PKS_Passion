@@ -73,9 +73,9 @@ conda install lib
 
 - [기본 문법 1](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/pytorch)
 
-#### 머신러닝 기반 혈압 추정
+#### 머신러닝 기반 혈압 추정[선형회귀 기반]
 
-- [선형회귀 기반](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/BP_estimation)
+- [주피터 ](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/BP_estimation)
 - [실습해보기](https://mybinder.org/v2/gh/Kaintels/rubyPy-study/master?filepath=Python3/BP_estimation/Py_practice.ipynb)
 
 #### 딥러닝 기반 혈압 추정
