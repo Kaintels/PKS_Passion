@@ -150,6 +150,15 @@ Ruby는 현재 작성중에 있습니다!
 
 - [Kalman Filter 기초](https://www.youtube.com/watch?v=Ist-Cs0ZxPc)
 
-#### Paper Review
+#### Deep Learning Paper Review
 
-- [Paper Review 1](https://www.youtube.com/watch?v=MnHCe8tGjQ8&list=PL-fGFQlnQTGUJ3QSZZxkALRVH-BUQd_dj)
+- [Paper Review 1](https://www.youtube.com/watch?v=L3hz57whyNw&list=PL0oFI08O71gKjGhaWctTPvvM7_cVzsAtK)
+
+- [Paper Review 2](https://www.youtube.com/watch?v=myBzJ0cnHBk)
+
+- [Paper Review 3](https://www.youtube.com/watch?v=Pu_oggjuNxc)
+
+- [딥러닝 추천 논문](http://deeplearningstudy.github.io/doc_deeplearning_paper.html)
+
+- [논문 코드 구현](https://paperswithcode.com/)
+
