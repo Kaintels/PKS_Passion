@@ -108,25 +108,33 @@ Ruby는 현재 작성중에 있습니다!
 
 ## Good thing to see together
 
-#### Linear Algebra
+#### Linear Algebra; Principal Component Analysis(PCA), Linear Discriminant Analysis(LDA)
 
 - [PCA](https://www.youtube.com/watch?v=FhQm2Tc8Kic)
 - [PCA 파이썬 구현](https://www.youtube.com/watch?v=DUJ2vwjRQag)
+- [LDA](https://www.youtube.com/watch?v=p8Fqt2Qxqro)
 
-#### Deep Learning
+#### Basic Deep Learning; Convolutional Neural Network(CNN), Recurrent Neural Network(RNN)
 
 - [CS231n](http://cs231n.stanford.edu/)
 - [CS231n 한글 강좌](https://www.youtube.com/watch?v=3QjGtOlIiVI&list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
 - [문일철 교수님 강의](http://seslab.kaist.ac.kr/xe2/index.php?mid=page_GBex27)
 
-#### Reinforcement Learning
+#### Advanced Deep Learning; AutoEncoder, Variational AutoEncoder(VAE), Generative Adversarial Network(GAN)
+
+- [AE](https://www.youtube.com/watch?v=YxtzQbe2UaE)
+- [VAE](https://www.youtube.com/watch?v=0ywpBuWXXWo)
+- [Introduction to GANs, NIPS 2016, Ian Goodfellow, OpenAI](https://www.youtube.com/watch?v=9JpdAg6uMXs)
+- [GAN 한글 강좌](https://www.youtube.com/watch?v=52r9F05wAl4)
+
+#### Reinforcement Learning;
 
 - [David Sliver's Online lecture](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [David Sliver's Silde](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-
-- [팡요랩의 강화학습 기초 이론](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
-
+- [팡요랩 강화학습 기초 이론](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
 - [Naver D2](https://www.youtube.com/watch?v=soZXAH3leeQ&list=PLsFtzQAC8dDetav3jSCKB_MXwvUn7yfJS)
+- [모두의 연구소](http://www.modulabs.co.kr/RL_library/2136)
+- [강화학습 Gitbook](https://dnddnjs.gitbooks.io/rl/content/reinforcement_learning.html)
 
 #### Simultaneous Localization and Mapping (SLAM)
 
