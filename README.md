@@ -13,7 +13,11 @@
 
 ## Getting Started
 
-#### 2019.08.25 기준 [머신러닝 기반 혈압 추정](#머신러닝-기반-혈압-추정)은 주피터 노트북에서 실시간 실습이 가능합니다. 머신러닝 기반 실습은 따로 파이썬 설치가 필요 없습니다.
+*Python*
+
+
+
+#### 2019.08.25 기준 [머신러닝 실습](#머신러닝-실습)은 주피터 노트북에서 실시간 실습이 가능합니다. 머신러닝 기반 실습은 따로 파이썬 설치가 필요 없습니다.
 
 이곳에 있는 자료들을 사용하기 위해서는 파이썬 3.x 버전 이상이 필요합니다.
 
@@ -41,7 +45,7 @@
 
 **머신러닝 및 딥러닝 라이브러리는 다른 라이브러리들과 의존성(dependency)을 가지게 되므로, 하나의 가상환경에 하나의 머신 및 딥러닝 라이브러리 설치를 당부드립니다.**
 
-(e.g. : 가상환경 1에는 tensorflow, 가상환경 2에는 pytorch 설치를 해야함. 가상환경 1에 두 딥러닝 라이브러리를 설치하면 오류가 날 수있음)
+(e.g. : 가상환경 1에는 tensorflow, 가상환경 2에는 pytorch 설치를 해야됩니다. 가상환경 1에 두 딥러닝 라이브러리를 설치하면 오류가 날 수있습니다.)
 
 가상환경 설치 및 관리는 다음 사이트로 가시면 확인하실 수 있습니다. [바로가기](https://niceman.tistory.com/85)
 
@@ -54,6 +58,12 @@ pip install lib
 ```
 conda install lib
 ```
+
+
+
+*Ruby*
+
+Ruby는 현재 작성중에 있습니다!
 
 ## Python
 
@@ -73,15 +83,65 @@ conda install lib
 
 - [기본 문법 1](https://github.com/Kaintels/rubyPy-study/tree/master/Python3/pytorch)
 
-#### 머신러닝 기반 혈압 추정
+#### 머신러닝 실습
 
-*선형회귀 기반*
+*선형회귀 기반 혈압 추정*
 
 - [주피터 노트북](https://nbviewer.jupyter.org/github/Kaintels/rubyPy-study/blob/master/Python3/BP_estimation/Py_practice.ipynb)
 - [실습해보기](https://mybinder.org/v2/gh/Kaintels/rubyPy-study/master?filepath=Python3/BP_estimation/Py_practice.ipynb)
 
-#### 딥러닝 기반 혈압 추정
+*Naïve Bayes Classifier 실습*
 
 - 작성중
 
+#### 딥러닝 실습
+
+- 작성중
+
+#### 강화학습 기반 혈압 추정
+
+- 
+
 ## Ruby
+
+
+
+## Good thing to see together
+
+#### Linear Algebra
+
+- [PCA](https://www.youtube.com/watch?v=FhQm2Tc8Kic)
+- [PCA 파이썬 구현](https://www.youtube.com/watch?v=DUJ2vwjRQag)
+
+#### Deep Learning
+
+- [CS231n](http://cs231n.stanford.edu/)
+- [CS231n 한글 강좌](https://www.youtube.com/watch?v=3QjGtOlIiVI&list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
+- [문일철 교수님 강의](http://seslab.kaist.ac.kr/xe2/index.php?mid=page_GBex27)
+
+#### Reinforcement Learning
+
+- [David Sliver's Online lecture](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [David Sliver's Silde](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+- [팡요랩의 강화학습 기초 이론](https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
+
+- [Naver D2](https://www.youtube.com/watch?v=soZXAH3leeQ&list=PLsFtzQAC8dDetav3jSCKB_MXwvUn7yfJS)
+
+#### Simultaneous Localization and Mapping (SLAM)
+
+- [Cyrill Stachniss's 12/13 lecture](https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc)
+
+- [Cyrill Stachniss's 13/14 lecture](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
+
+#### Hidden Markov Model(HMM), Expectation-Maximization(EM) Algorithms, Kalman Filter
+
+- [HMM 기초](https://www.youtube.com/watch?v=MoH4lcbBakA)
+
+- [EM 기초](https://www.youtube.com/watch?v=U99A8myCwfE)
+
+- [Kalman Filter 기초](https://www.youtube.com/watch?v=Ist-Cs0ZxPc)
+
+#### Paper Review
+
+- [Paper Review 1](https://www.youtube.com/watch?v=MnHCe8tGjQ8&list=PL-fGFQlnQTGUJ3QSZZxkALRVH-BUQd_dj)
