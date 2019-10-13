@@ -3,7 +3,7 @@ matplotlib==3.*
 pandas
 scipy
 tensorflow-gpu==1.14.0
-keras-gpu==2.2.4
+keras==2.2.4
 Ipython
 graphviz
 pydot
