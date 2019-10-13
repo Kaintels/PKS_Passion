@@ -2,9 +2,10 @@ numpy==1.16.*
 matplotlib==3.*
 pandas
 scipy
-tensorflow
-keras
+tensorflow-gpu
+keras-gpu
 Ipython
 graphviz
 pydot
 Pillow
+pydotplus
