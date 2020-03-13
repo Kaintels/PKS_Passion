@@ -59,6 +59,15 @@ pip install lib
 conda install lib
 ```
 
+2020.03.14 기준 ``environment-torch.yml``을 이용하여 pytorch, hpbandster를 포함한 딥러닝 및 최적화 패키지가 포함된 가상환경을 설치 할 수 있습니다.
+
+```
+conda env create -n 설치이름 --file environment-torch.yml # 가상환경 직접 이름 설정
+```
+또는
+```
+conda env create -f environment-torch.yml # default, torchs로 이름 설정
+```
 
 
 *Ruby*
@@ -160,5 +169,6 @@ Ruby는 현재 작성중에 있습니다!
 
 - [딥러닝 추천 논문](http://deeplearningstudy.github.io/doc_deeplearning_paper.html)
 
-- [논문 코드 구현](https://paperswithcode.com/)
+- [논문 코드 구현 1](https://paperswithcode.com/)
 
+- [논문 코드 구현 2 (Kaintels 본인)](https://github.com/Kaintels/paper-review)
