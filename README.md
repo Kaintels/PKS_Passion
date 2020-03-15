@@ -59,7 +59,11 @@ pip install lib
 conda install lib
 ```
 
-2020.03.14 기준 ``environment-torch.yml``을 이용하여 pytorch, hpbandster를 포함한 딥러닝 및 최적화 패키지가 포함된 가상환경을 설치 할 수 있습니다.
+**2020.03.14 기준** ``environment-torch.yml``**을 이용하여 pytorch, hpbandster를 포함한 딥러닝 및 최적화 패키지가 포함된 가상환경을 설치 할 수 있습니다.**
+
+
+
+**Python 3.5**
 
 ```
 conda env create -n 설치이름 --file environment-torch.yml # 가상환경 직접 이름 설정
@@ -69,8 +73,15 @@ conda env create -n 설치이름 --file environment-torch.yml # 가상환경 직
 conda env create -f environment-torch.yml # default, torchs로 이름 설정
 ```
 
+**Python 3.7**
 
-*Ruby*
+```
+conda env create -f environment-torch-37.yml # default, torchs로 이름 설정
+```
+
+
+
+Ruby*
 
 Ruby는 현재 작성중에 있습니다!
 
