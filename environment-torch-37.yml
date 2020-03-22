@@ -145,7 +145,6 @@ dependencies:
     - pyaml==20.3.1
     - pyparsing==2.4.6
     - pyperclip==1.7.0
-    - pypyodbc==1.3.4
     - pyqt5-sip==4.19.18
     - pyqtwebengine==5.12.1
     - pyreadline==2.1
