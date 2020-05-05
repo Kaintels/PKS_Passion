@@ -7,7 +7,7 @@
 
 
 
-# Python 및 Ruby Study
+# Python 및 Ruby Study for MFS
 
 기본적인 파이썬/루비 문법 및 머신러닝 실습자료
 
