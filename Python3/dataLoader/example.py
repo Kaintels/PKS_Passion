@@ -1,4 +1,4 @@
-import Python3.dataLoader.dataloader as dl
+import dataLoader.dataloader as dl
 
 #%% 데이터 불러오기 예제
 data = dl.dataLoad(1)
