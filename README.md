@@ -1,15 +1,13 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![forthebadge made-with-ruby](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://www.ruby-lang.org/) 
-
 
 ![badge](https://img.shields.io/github/commit-activity/w/Kaintels/rubyPy-study?style=flat) ![badge](https://img.shields.io/badge/launch-binder-579aca.svg?style=flat)
 
 
 
 
-# Python 및 Ruby Study for MFS
+# Python Study for MFS
 
-기본적인 파이썬/루비 문법 및 머신러닝 실습자료
+기본적인 파이썬 문법 및 머신러닝 실습자료
 
 ## Getting Started
 
@@ -78,12 +76,6 @@ conda env create -f environment-torch.yml # default, torchs로 이름 설정
 ```
 conda env create -f environment-torch-37.yml # default, torchs로 이름 설정
 ```
-
-
-
-Ruby*
-
-Ruby는 현재 작성중에 있습니다!
 
 ## Python
 
