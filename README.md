@@ -174,4 +174,4 @@ conda env create -f environment-torch-37.yml # default, torchs로 이름 설정
 
 - [논문 코드 구현 1](https://paperswithcode.com/)
 
-- [논문 코드 구현 2 (Kaintels 본인)](https://github.com/Kaintels/paper-review)
+- [논문 코드 구현 2 (한승우 본인)](https://github.com/Kaintels/paper-review)
