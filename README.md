@@ -7,7 +7,7 @@
 
 # Python Study for MFS
 
-기본적인 파이썬 문법 및 머신러닝 실습자료
+Mad for Speed 회원들을 위한 기본적인 파이썬 문법 및 머신러닝 실습자료
 
 ## Getting Started
 
